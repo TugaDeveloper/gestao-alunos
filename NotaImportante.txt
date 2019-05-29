@@ -1,0 +1,4 @@
+O programa parece correr na perfeição no compilador do Visual Studio mas poderá
+não funcionar com outros compiladores. Por este motivo incluio o ficheiro exe que
+contém o programa no seu normal estado de funcionamento (utilizar o ficheiro exe 
+da pasta Release e não de Debugging).
